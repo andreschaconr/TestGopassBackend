@@ -45,6 +45,7 @@ Este proyecto permite crear un backen con express que consume una api publica ht
 ### BACK-END
 ## Pre-requisitos ⚖️
 _Si desea ejecutar la prueba y desarrollar este proyecto, debe tener algún editor de código como Visual Studio Code. Para ejecutar este proyecto debes tener instalado “Node js” en tu pc._
+
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
