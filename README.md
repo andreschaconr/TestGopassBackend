@@ -37,7 +37,7 @@ _```http://localhost:3001/```_
 
 * ```Node js```
 * ```Express```
-## Andrés Chacón 💪
+
 
 ## ES
 Este proyecto permite crear un backen con express que consume una api publica https://newsapi.org/  y crear un servidor local para ser cosumido desde el frontend.
