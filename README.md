@@ -1,4 +1,4 @@
-# TEST GOPASS BACKEND 
+# NEWS BACKEND 
 
 
 ![image](https://user-images.githubusercontent.com/89316806/171065574-ce93a81e-c21b-4e5a-a8dd-1649516ad9ff.png)
@@ -17,7 +17,7 @@ _If you want to execute test and develop this project you must have any code edi
 ## Getting the project ⚡
 _1. First, the project must be cloned with the following command:_
  
- _git clone https://github.com/andreschaconr/TestGopassBackend.git
+
  
 _2. After the project is created, a new folder will be created automatically and it must be entered the following command: cd BackendGopass
  
@@ -52,7 +52,7 @@ _Si desea ejecutar la prueba y desarrollar este proyecto, debe tener algún edit
 ## Obtener el proyecto ⚡
 _1. Primero, el proyecto debe ser clonado con el siguiente comando:_
  
- _git clone https://github.com/andreschaconr/TestGopassBackend.git
+
  
 _2. Luego de creado el proyecto, se creará automáticamente una nueva carpeta y se debe ingresar el siguiente comando: cd BackendGopass
  
